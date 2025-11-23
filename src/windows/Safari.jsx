@@ -37,6 +37,10 @@ const Safari = () => {
     </div>
 
     <div className="blog">
+        <h2>still figuring out what to put here</h2>
+    </div>
+
+    {/* <div className="blog">
         <h2>My Blog</h2>
 
         <div className="space-y-8">
@@ -56,7 +60,7 @@ const Safari = () => {
                 </div>
             ))}
         </div>
-    </div>
+    </div> */}
   </>
 );
 };

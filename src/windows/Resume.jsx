@@ -46,7 +46,7 @@ const Resume = () => {
       </Document>
 
       {/* If you ever want page controls */}
-      {numPages && (
+      {/* {numPages && (
         <div className="resume-pagination">
           <button
             onClick={() => setPageNumber(p => Math.max(1, p - 1))}
@@ -64,7 +64,7 @@ const Resume = () => {
             Next
           </button>
         </div>
-      )}
+      )} */}
     </>
   );
 };
