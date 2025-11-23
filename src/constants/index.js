@@ -1,7 +1,7 @@
 const navLinks = [
-                    {id: 1, name: 'Resume', type: 'resume'},
+                    {id: 1, name: 'Projects', type: 'finder'},
                     {id: 2, name: 'Contact', type: 'contact'},
-                    {id: 3, name: 'Projects', type: 'finder'},
+                    {id: 3, name: 'Resume', type: 'resume'},
 ];
 
 const navIcons = [
