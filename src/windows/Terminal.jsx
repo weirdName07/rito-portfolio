@@ -47,6 +47,9 @@ const Terminal = () => {
             Render time: 6ms
         </p>
     </div>
+    <p>
+        <span className='font-bold'>@rito % </span>
+    </p>
   </div>
   </>
   );
